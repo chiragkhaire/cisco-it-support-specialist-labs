@@ -1,36 +1,69 @@
 # Cisco IT Support Specialist Labs
 
-A structured collection of notes, troubleshooting guides, practical case studies, and reference material covering the core responsibilities of an IT Support Specialist.
+A structured collection of notes, troubleshooting guides, practical case studies, scripts, and reference material covering the core responsibilities of an IT Support Specialist.
 
-This repository documents concepts and workflows related to:
-
-- IT Customer Support
-- Operating Systems Support
-- Security & Connectivity
-- Hardware Support
-- Troubleshooting Methodologies
-
-## Repository Structure
-
-| Module | Topics |
-|---------|--------|
-| IT Customer Support | Ticketing systems, incident management, customer communication |
-| Operating Systems | Windows, Linux, macOS, Android, iOS troubleshooting |
-| Security & Connectivity | Networking, authentication, cybersecurity fundamentals |
-| Hardware Support | PC hardware, upgrades, diagnostics, peripherals |
-| Final Project | Practical helpdesk case studies and troubleshooting documentation |
-
-## Skills Demonstrated
-
-- Technical troubleshooting
-- Root cause analysis
-- Helpdesk workflows
-- Operating system support
-- Hardware diagnostics
-- Networking fundamentals
-- Technical documentation
-- Customer support best practices
+This repository documents my learning and hands-on practice while studying the Cisco IT Support Specialist learning path. Rather than simply completing course exercises, I expanded the material into practical documentation and mini handbooks that I can revisit in the future.
 
 ---
 
-*This repository is maintained as part of my continuous learning and hands-on IT support practice.*
+# Repository Structure
+
+| Module | Description |
+|---------|-------------|
+| 01 - IT Customer Support | Ticket lifecycle, customer support principles, incident management and sample helpdesk tickets |
+| 02 - Operating Systems | Windows, Linux, macOS, Android and iOS troubleshooting guides |
+| 03 - Security & Connectivity | Networking fundamentals, security principles, Wi-Fi troubleshooting and common ports |
+| 04 - Hardware Support | PC hardware, upgrades, diagnostics and printer troubleshooting |
+| 05 - PowerShell & Bash | Windows PowerShell handbook, Linux Bash handbook, administrative scripts and automation basics |
+| Final Project | Real-world helpdesk case studies and troubleshooting workflows |
+| Docs | Mermaid diagrams and troubleshooting flowcharts |
+
+---
+
+# Skills Demonstrated
+
+- IT Customer Support
+- Technical Documentation
+- Incident Management
+- Windows Administration
+- Linux Fundamentals
+- Networking Fundamentals
+- Hardware Troubleshooting
+- Operating System Support
+- Cybersecurity Fundamentals
+- PowerShell
+- Bash
+- Troubleshooting Methodology
+- Technical Communication
+
+---
+
+# Repository Highlights
+
+- 📘 Comprehensive documentation
+- 🛠️ Practical troubleshooting guides
+- 📚 PowerShell administration handbook
+- 🌐 Networking reference
+- 🔒 Security best practices
+- 💻 Hardware support documentation
+- 📊 Mermaid diagrams
+- 🎯 Real-world helpdesk case studies
+
+---
+
+# Learning Outcome
+
+This repository demonstrates my understanding of:
+
+- Customer support workflows
+- Operating system troubleshooting
+- Hardware diagnostics
+- Security best practices
+- Network troubleshooting
+- Windows PowerShell fundamentals
+- Linux Bash fundamentals
+- Documentation and problem-solving
+
+---
+
+> This repository is maintained as part of my continuous learning in IT Support, System Administration, and Networking.
